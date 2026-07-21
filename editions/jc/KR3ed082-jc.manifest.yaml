@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed082_000-jc.yaml, hash: 'sha256:a4bf8afb89ddb6532fa11034615728670af32b2e7dba78be3841edca12c7fd8e'}
+  - {seq: 0, filename: KR3ed082_000-jc.yaml, hash: 'sha256:b1fc9be667190f443a0bd4e7ce9200d4e4b543c3ae86bfdc8d50efa0ffc42fc6'}
   - {seq: 1, filename: KR3ed082_001-jc.yaml, hash: 'sha256:7ded3104242f1a49b9b5fbb3a51cc5deec3ed5ab7bb90a3d4df9bebea1f47770'}
   - {seq: 2, filename: KR3ed082_002-jc.yaml, hash: 'sha256:ae4d2cc1889b6b3c746926e77926a37ea9fefbcfc8bc5dfc3aa2be7a11bc9ec4'}
   - {seq: 3, filename: KR3ed082_003-jc.yaml, hash: 'sha256:3ffa4b31783f6f5d06fe6b8a4b98ee772dd5c482f2debacfa78eb707fbf23a62'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3ed082_005-jc.yaml, hash: 'sha256:a1d27f4d3ebf136a2f4c3cda15427e44795b844722ee277fd20eb6cc7f3e0645'}
   - {seq: 6, filename: KR3ed082_006-jc.yaml, hash: 'sha256:b483e41086edb86f6ec5c416643df830e18d8a5b87e557badf93d746f6875549'}
   - {seq: 7, filename: KR3ed082_007-jc.yaml, hash: 'sha256:3848056d0c0bbcf8d5ab055ad7088a4113f58411e26b69bfda426c2d848ebead'}
-  - {seq: 0, filename: KR3ed082_000-jc.yaml, hash: 'sha256:848ecc5303278b0ed828cedc11b42b9858a26c1667b0e14e154b682ee1a3d103'}
+  - {seq: 0, filename: KR3ed082_000-jc.yaml, hash: 'sha256:b1fc9be667190f443a0bd4e7ce9200d4e4b543c3ae86bfdc8d50efa0ffc42fc6'}
   - {seq: 1, filename: KR3ed082_001-jc.yaml, hash: 'sha256:4419319655be1f409353d1298931c14fbe300cc3332d127d019033d097bf21dc'}
   - {seq: 2, filename: KR3ed082_002-jc.yaml, hash: 'sha256:7ed3c8a27f29a707e6e990be95fabf41393da0a5f7f1a5c415ca488dbfc9c65c'}
   - {seq: 3, filename: KR3ed082_003-jc.yaml, hash: 'sha256:f5038629f0e32c9c565b1c605ce32b2fdd81b6cff8017823765c7d443247dc48'}
@@ -36,9 +36,9 @@ assets:
   - {seq: 8, filename: KR3ed082_008-jc.yaml, hash: 'sha256:01d1d4c8af9d4922d7b9cafb17cddfb616cc5169d2d7b2ef48c0f66534c6f8f3'}
   - {seq: 9, filename: KR3ed082_009-jc.yaml, hash: 'sha256:a3b07dc5d0311d1d5eaaa885684c8351dfed9dfae2995f0d08e4bfba3c32ecc3'}
   - {seq: 10, filename: KR3ed082_010-jc.yaml, hash: 'sha256:7cf2dea09a876d9107d0b2d7308f42914d8d03440e05046f18fcbb521afb5c2f'}
-  - {seq: 0, filename: KR3ed082_000-jc.yaml, hash: 'sha256:4301ccf94345bfaf2a4938d48cc61bf9c0f53b30e829f645982e848c7393e256'}
+  - {seq: 0, filename: KR3ed082_000-jc.yaml, hash: 'sha256:b1fc9be667190f443a0bd4e7ce9200d4e4b543c3ae86bfdc8d50efa0ffc42fc6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed082_000-jc.markers.yaml, hash: 'sha256:674e00f7b326901b16534d17dea96144a2234f7a272bb94b6607b9076dd903d7'}
+  - {seq: 0, role: markers, filename: assets/KR3ed082_000-jc.markers.yaml, hash: 'sha256:b60cb21974ff0ffd2ba4ca43d05a9a7e11ceef2655d3aa1405a38eb33d4c09e8'}
   - {seq: 1, role: markers, filename: assets/KR3ed082_001-jc.markers.yaml, hash: 'sha256:b60a658d0e333c05cb91a48d213d1d97f8f8b31b82a149ef7844b5e790dd0f3e'}
   - {seq: 2, role: markers, filename: assets/KR3ed082_002-jc.markers.yaml, hash: 'sha256:43de8df739cd8a21bf3ad54e5a25b390c34af8b9c16468cdbad91c719f607672'}
   - {seq: 3, role: markers, filename: assets/KR3ed082_003-jc.markers.yaml, hash: 'sha256:0fed7b5f7887207c4704b2b2bcdda8824627ff2038bc1bfb530d71dff21f5caf'}
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 435
   label: 序
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 435
     - 800
   label: 顧序
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 800
     - 1279
   label: 黃序
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1279
     - 2164
   label: 石序
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2164
     - 2529
   label: 吳序
@@ -104,7 +104,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 2529
     - 4239
   label: 朱序
@@ -115,8 +115,8 @@ table_of_contents:
     marker_id: KR3ed082_jc_000-d8.h1s1
     span:
     - body
-    - 0
-    - 19
+    - 461
+    - 480
   label: 類證普濟本事方坊刻王氏本備錄
   type: section
   level: 1
@@ -195,8 +195,8 @@ table_of_contents:
     marker_id: KR3ed082_jc_000-d9.h1s1
     span:
     - body
-    - 0
-    - 776
+    - 461
+    - 1237
   label: 普濟本事方治藥制度總例
   type: section
   level: 1
@@ -205,8 +205,8 @@ table_of_contents:
     marker_id: KR3ed082_jc_000-d10.h1s1
     span:
     - body
-    - 776
-    - 1373
+    - 1237
+    - 1834
   label: 附葉香岩傳
   type: section
   level: 1
@@ -564,10 +564,10 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed082_jc_000-d21.h1s1
     span:
-    - front
+    - body
     - 0
     - 461
   label: 後序
   type: section
   level: 1
-hash: sha256:6958b2cf910a239910053e454fa8d66425e91e8a6efd2a128a5bbb5b4d493412
+hash: sha256:4f7f3c6fd7bf6a1438baaa9689279f913c3c3693c62f3d915b87845be77fa0a6
